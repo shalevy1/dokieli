@@ -35,7 +35,7 @@
     "fs": "0.0.1-security",
     "medium-editor": "^5.23.3",
     "medium-editor-tables": "^0.6.1",
-    "node-fetch": "^1.7.3",
+    "node-fetch": "^2.6.1",
     "npm": "^6.13.4",
     "rdf-parser-rdfa": "git://github.com/rdf-ext/rdf-parser-rdfa.git#master",
     "rdf-store-ldp": "^0.3.1",
